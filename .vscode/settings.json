@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "StrukturDasar/src",
+        "StrukturDasar/lib",
+        "Operator/src/com/dicoding/javafundamental/operator",
+        "InputOutput/src/com/dicoding/javafundamental/inputoutput",
+        "HelloJava/src",
+        "Array/src/com/dicoding/javafundamental/array"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "StrukturDasar/lib/commons-lang3-3.9.jar"
+    ]
+}
