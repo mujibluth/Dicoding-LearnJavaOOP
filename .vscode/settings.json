@@ -2,11 +2,12 @@
     "java.project.sourcePaths": [
         "StrukturDasar/src",
         "StrukturDasar/lib",
+        "Percabangan/src/com/dicoding/javafundamental/percabangan",
         "Operator/src/com/dicoding/javafundamental/operator",
         "InputOutput/src/com/dicoding/javafundamental/inputoutput",
         "HelloJava/src",
         "Array/src/com/dicoding/javafundamental/array",
-        "Percabangan/src/com/dicoding/javafundamental/percabangan"
+        "Perulangan/src/com/dicoding/javafundamental/perulangan"
     ],
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
