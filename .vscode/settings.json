@@ -5,7 +5,8 @@
         "Operator/src/com/dicoding/javafundamental/operator",
         "InputOutput/src/com/dicoding/javafundamental/inputoutput",
         "HelloJava/src",
-        "Array/src/com/dicoding/javafundamental/array"
+        "Array/src/com/dicoding/javafundamental/array",
+        "Percabangan/src/com/dicoding/javafundamental/percabangan"
     ],
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
