@@ -7,8 +7,9 @@
         "Operator/src/com/dicoding/javafundamental/operator",
         "InputOutput/src/com/dicoding/javafundamental/inputoutput",
         "HelloJava/src",
+        "Collection/src/com/dicoding/javafundamental/collection",
         "Array/src/com/dicoding/javafundamental/array",
-        "Collection/src/com/dicoding/javafundamental/collection"
+        "Objek/src/com/dicoding/javafundamental/objek"
     ],
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
