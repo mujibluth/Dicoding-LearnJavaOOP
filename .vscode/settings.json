@@ -5,11 +5,12 @@
         "Perulangan/src/com/dicoding/javafundamental/perulangan",
         "Percabangan/src/com/dicoding/javafundamental/percabangan",
         "Operator/src/com/dicoding/javafundamental/operator",
+        "Objek/src/com/dicoding/javafundamental/objek",
         "InputOutput/src/com/dicoding/javafundamental/inputoutput",
         "HelloJava/src",
         "Collection/src/com/dicoding/javafundamental/collection",
         "Array/src/com/dicoding/javafundamental/array",
-        "Objek/src/com/dicoding/javafundamental/objek"
+        "Function/src/com/dicoding/javafundamental/function"
     ],
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
