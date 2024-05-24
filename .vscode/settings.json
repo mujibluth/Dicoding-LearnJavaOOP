@@ -8,9 +8,10 @@
         "Objek/src/com/dicoding/javafundamental/objek",
         "InputOutput/src/com/dicoding/javafundamental/inputoutput",
         "HelloJava/src",
+        "Function/src/com/dicoding/javafundamental/function",
         "Collection/src/com/dicoding/javafundamental/collection",
         "Array/src/com/dicoding/javafundamental/array",
-        "Function/src/com/dicoding/javafundamental/function"
+        "PropertiDanMetode/src/com/dicoding/javafundamental/propertimetode"
     ],
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
