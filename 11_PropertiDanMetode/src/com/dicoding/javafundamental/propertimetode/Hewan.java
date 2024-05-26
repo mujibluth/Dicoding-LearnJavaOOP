@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.propertimetode;
+
 public class Hewan {
     // inisialisasi dengan nilai inisial
     double tinggi = 30;
