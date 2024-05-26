@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.operator1;
+
 public class OperatorAritmatika {
     public static void main(String[] args) {
         System.out.println("Operasi penjumlaham");

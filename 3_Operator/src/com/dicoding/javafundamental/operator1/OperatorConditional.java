@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.operator1;
+
 public class OperatorConditional {
     public static void main(String[] args) {
         int value = 4;
@@ -22,3 +24,4 @@ public class OperatorConditional {
         System.out.println();
     }
 }
+

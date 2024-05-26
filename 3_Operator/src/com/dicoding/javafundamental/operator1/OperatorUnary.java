@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.operator1;
+
 public class OperatorUnary {
     public static void main(String[] args) {
         System.out.println("Operator unary plus");
@@ -31,3 +33,4 @@ public class OperatorUnary {
         System.out.println();
     }
 }
+

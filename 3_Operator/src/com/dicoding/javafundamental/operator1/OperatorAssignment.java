@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.operator1;
+
 public class OperatorAssignment {
     public static void main(String[] args) {
         int value = 2;
@@ -6,3 +8,4 @@ public class OperatorAssignment {
         System.out.println("Data pada anotherValue adalah ->> " + anotherValue);
     }
 }
+

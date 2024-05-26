@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.operator1;
+
 public class OperatorEquality {
     public static void main(String[] args) {
         int value = 5;
