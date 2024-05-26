@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.function;
+
 public class ReturnFunction {
     public static void main(String[] args) {
         double p = 7;

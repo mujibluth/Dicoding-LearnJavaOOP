@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.function;
+
 public class MethodOverloading {
     public static void main(String[] args) {
         double p = 7;
