@@ -1,6 +1,6 @@
-package com.dicoding.javafundamental.accessmodifier.package2;
+package com.dicoding.javafundamental.accessmodifier1.package2;
 
-import com.dicoding.javafundamental.accessmodifier.package1.KelasA;
+import com.dicoding.javafundamental.accessmodifier1.package1.KelasA;
 
 public class KelasB extends KelasA {
     @Override

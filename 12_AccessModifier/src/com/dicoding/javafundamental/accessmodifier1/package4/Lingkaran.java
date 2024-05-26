@@ -1,4 +1,4 @@
-package com.dicoding.javafundamental.accessmodifier.package4;
+package com.dicoding.javafundamental.accessmodifier1.package4;
 
 public class Lingkaran {
     static final double PI = 3.141;

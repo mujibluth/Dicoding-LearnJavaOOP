@@ -1,10 +1,10 @@
-package com.dicoding.javafundamental.accessmodifier.package2;
+package com.dicoding.javafundamental.accessmodifier1.package2;
 
-import com.dicoding.javafundamental.accessmodifier.package1.KelasA;
+// import com.dicoding.javafundamental.accessmodifier1.package1.KelasA;
 
 public class Main {
     public static void main(String[] args) {
-        KelasA kelasA = new KelasA();
+        // KelasA kelasA = new KelasA();
 
         // System.out.println(kelasA.functionB());
 

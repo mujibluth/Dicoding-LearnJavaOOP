@@ -1,4 +1,4 @@
-package com.dicoding.javafundamental.accessmodifier.package3;
+package com.dicoding.javafundamental.accessmodifier1.package3;
 
 public class Perhitungan {
     public static int nilai = 0;
