@@ -10,11 +10,11 @@
         "2_StrukturDasar/src",
         "2_StrukturDasar/lib",
         "1_HelloJava/src",
-        "12_AccessModifier/src/com/dicoding/javafundamental/accessmodifier",
+        "13_Interface/src",
         "12_AccessModifier/src",
         "11_PropertiDanMetode/src",
         "10_Function/src",
-        "13_Interface/src"
+        "14_InterfaceImplement/src"
     ],
     "java.project.referencedLibraries": [
         "2_StrukturDasar/lib/commons-lang3-3.9.jar"
