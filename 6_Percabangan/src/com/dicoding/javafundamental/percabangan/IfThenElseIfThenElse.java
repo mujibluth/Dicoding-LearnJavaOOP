@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.percabangan;
+
 public class IfThenElseIfThenElse {
     public static void main(String[] args) {
         int nilaiUjian = 30;

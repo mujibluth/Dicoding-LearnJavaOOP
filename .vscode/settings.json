@@ -4,7 +4,7 @@
         "8_Collection/src/com/dicoding/javafundamental/collection",
         "7_Perulangan/src/com/dicoding/javafundamental/perulangan",
         "6_Percabangan/src/com/dicoding/javafundamental/percabangan",
-        "5_Array/src/com/dicoding/javafundamental/array",
+        "5_Array/src",
         "4_InputOutput/src",
         "3_Operator/src",
         "2_StrukturDasar/src",
@@ -14,7 +14,7 @@
         "12_AccessModifier/src",
         "11_PropertiDanMetode/src/com/dicoding/javafundamental/propertimetode",
         "10_Function/src/com/dicoding/javafundamental/function",
-        "5_Array/src"
+        "6_Percabangan/src"
     ],
     "java.project.referencedLibraries": [
         "2_StrukturDasar/lib/commons-lang3-3.9.jar"

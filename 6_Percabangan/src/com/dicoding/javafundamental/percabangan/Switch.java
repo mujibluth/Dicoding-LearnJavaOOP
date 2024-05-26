@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.percabangan;
+
 public class Switch {
     public static void main(String[] args) {
         int input = 6;

@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.percabangan;
+
 public class SwitchWithoutBreak {
     public static void main(String[] args) {
         char input = 'C';

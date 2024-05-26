@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.percabangan;
+
 public class IfThen {
     public static void main(String[] args) {
         boolean isOn = true;
