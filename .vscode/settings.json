@@ -1,11 +1,5 @@
 {
     "java.project.sourcePaths": [
-        "StrukturDasar/src",
-        "StrukturDasar/lib",
-        "Perulangan/src/com/dicoding/javafundamental/perulangan",
-        "Percabangan/src/com/dicoding/javafundamental/percabangan",
-        "Function/src/com/dicoding/javafundamental/function",
-        "Collection/src/com/dicoding/javafundamental/collection",
         "9_Objek/src/com/dicoding/javafundamental/objek",
         "8_Collection/src/com/dicoding/javafundamental/collection",
         "7_Perulangan/src/com/dicoding/javafundamental/perulangan",
@@ -14,15 +8,16 @@
         "4_InputOutput/src/com/dicoding/javafundamental/inputoutput",
         "3_Operator/src/com/dicoding/javafundamental/operator",
         "3_Operator/src",
+        "2_StrukturDasar/src",
         "2_StrukturDasar/lib/com/dicoding/javafundamental/basic",
         "1_HelloJava/src",
+        "12_AccessModifier/src/com/dicoding/javafundamental/accessmodifier",
         "11_PropertiDanMetode/src/com/dicoding/javafundamental/propertimetode",
         "10_Function/src/com/dicoding/javafundamental/function",
-        "2_StrukturDasar/src"
+        "12_AccessModifier/src"
     ],
     "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "StrukturDasar/lib/commons-lang3-3.9.jar"
+        "2_StrukturDasar/lib/commons-lang3-3.9.jar"
     ],
     "java.dependency.packagePresentation": "hierarchical"
 }
