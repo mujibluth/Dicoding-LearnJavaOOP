@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.perulangan;
+
 public class Whille {
     public static void main(String[] args) {
         int value = 1;

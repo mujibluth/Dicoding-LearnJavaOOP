@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.perulangan;
+
 public class ForBersarang {
     public static void main(String[] args) {
         int a = 5;
