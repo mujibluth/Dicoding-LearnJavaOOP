@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.objek;
+
 public class Hewan { // nama kelas nya adalah hewan
     String nama; // String nama; merupakan sebuah atribut/ properties/ fields
     int berat; 

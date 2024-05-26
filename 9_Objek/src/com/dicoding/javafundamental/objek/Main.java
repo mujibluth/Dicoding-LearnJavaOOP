@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.objek;
+
 public class Main {
     public static void main(String[] args) {
         Hewan Elang = new Hewan("Elang"); // menciptkaan objek dengan diawali kata "new", dan nama objeknya adalah "Elang"
