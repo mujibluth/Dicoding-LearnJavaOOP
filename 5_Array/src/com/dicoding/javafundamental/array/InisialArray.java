@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.array;
+
 // cara ke-1
 public class InisialArray {
     public static void main(String[] args) {

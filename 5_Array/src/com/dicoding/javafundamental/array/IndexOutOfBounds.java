@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.array;
+
 public class IndexOutOfBounds {
     public static void main(String[] args) {
         int[] arrA = new int[]{1, 2, 3, 4};

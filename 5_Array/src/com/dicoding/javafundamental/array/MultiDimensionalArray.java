@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.array;
+
 public class MultiDimensionalArray {
     public static void main(String[] args) {
         char[][] arrChar = new char[2][];
