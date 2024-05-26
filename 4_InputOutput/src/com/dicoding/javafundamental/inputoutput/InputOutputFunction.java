@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.inputoutput;
+
 import java.util.Scanner;
 
 public class InputOutputFunction {
@@ -13,3 +15,4 @@ public class InputOutputFunction {
         System.out.println("Hasilnya adalah : " + result);
     }
 }
+
