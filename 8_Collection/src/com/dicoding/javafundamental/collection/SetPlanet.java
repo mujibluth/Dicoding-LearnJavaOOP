@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.collection;
+
 import java.util.*;
 
 public class SetPlanet {

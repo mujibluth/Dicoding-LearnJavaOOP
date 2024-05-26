@@ -1,3 +1,5 @@
+package com.dicoding.javafundamental.collection;
+
 public class Planet {
     private String name;
     private Double mass;
