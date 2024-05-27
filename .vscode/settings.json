@@ -10,6 +10,7 @@
         "2_StrukturDasar/src",
         "2_StrukturDasar/lib",
         "1_HelloJava/src",
+        "19_DateTime/src",
         "18_InputOutput/src",
         "17_Exception/src",
         "16_Generics/src",
@@ -19,7 +20,7 @@
         "12_AccessModifier/src",
         "11_PropertiDanMetode/src",
         "10_Function/src",
-        "19_DateTime/src"
+        "StudiKasus_IfCondition/src"
     ],
     "java.project.referencedLibraries": [
         "2_StrukturDasar/lib/commons-lang3-3.9.jar"
