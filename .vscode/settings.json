@@ -10,13 +10,14 @@
         "2_StrukturDasar/src",
         "2_StrukturDasar/lib",
         "1_HelloJava/src",
+        "16_Generics/src",
         "15_Inheritance/src",
         "14_InterfaceImplement/src",
         "13_Interface/src",
         "12_AccessModifier/src",
         "11_PropertiDanMetode/src",
         "10_Function/src",
-        "16_Generics/src"
+        "17_Exception/src"
     ],
     "java.project.referencedLibraries": [
         "2_StrukturDasar/lib/commons-lang3-3.9.jar"
