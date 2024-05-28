@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "StudiKasus_IfCondition/src",
         "9_Objek/src",
         "8_Collection/src",
         "7_Perulangan/src",
@@ -20,7 +21,7 @@
         "12_AccessModifier/src",
         "11_PropertiDanMetode/src",
         "10_Function/src",
-        "StudiKasus_IfCondition/src"
+        "StudiKasus_ForLoopIfConditionAndFunction/src"
     ],
     "java.project.referencedLibraries": [
         "2_StrukturDasar/lib/commons-lang3-3.9.jar"
